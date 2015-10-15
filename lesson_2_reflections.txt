@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A: The respository is tracked by Git. It creates a new .git config file under the working directory.
