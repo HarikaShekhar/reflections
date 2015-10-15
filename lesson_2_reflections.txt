@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 A: The respository is tracked by Git. It creates a new .git config file under the working directory.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A: Working area has all files that are added to the git repository. Staging area has files that are yet to be added to the repository. Staging area lets you decide which files need to be tracked on git repository.
